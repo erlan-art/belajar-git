@@ -1,3 +1,0 @@
-This is second file
-
-Ini Adalah Isi Dari Second_File.txt
