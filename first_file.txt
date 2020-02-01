@@ -1,1 +1,3 @@
 isi file
+
+ini adalah isi dari first_file.txt
